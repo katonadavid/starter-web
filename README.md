@@ -16,6 +16,8 @@ It is easy
 
 ## How to contribute
 
+Just add code
+
 ## Copyright
 
 All rights reserved
