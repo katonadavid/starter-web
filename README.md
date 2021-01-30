@@ -15,3 +15,7 @@ The purpose of this is blabla
 It is easy
 
 ## How to contribute
+
+## Copyright
+
+All rights reserved
